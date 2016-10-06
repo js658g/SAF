@@ -1,0 +1,16 @@
+---
+role1:
+  name:
+    first: Joe
+    last: Volcano
+  task:
+    type: build
+    object: sailboat
+
+role2:
+  name:
+    first: Peewee
+    last: Herman
+  word_of_the_day:
+    Monday: horse
+    Tuesday: pie

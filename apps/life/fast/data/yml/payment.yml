@@ -1,0 +1,1659 @@
+#Workbook: C:/devl/SAF_dev/apps/life/fast/data/excel/fast_data_workbook.xlsx
+#Worksheet: payment
+---
+dir_1bill_10500_rte_073921158_5698923:
+  planned_premium: 10500
+  billing_type: Direct Billing
+  billing_frequency: One Time Billing
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount: 10500
+  banking_details_use_future_pmts:
+  routing_number: 073921158
+  bank_name:
+  account_type:
+  account_number: 5698923
+  bank_signature: DecEleven Eleven
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_1bill_11000_rte_073000228_8965236:
+  planned_premium: 1100
+  billing_type: Direct Billing
+  billing_frequency: One Time Billing
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount: 1100
+  banking_details_use_future_pmts:
+  routing_number: 073000228
+  bank_name:
+  account_type: Savings
+  account_number: '8965236'
+  bank_signature: DecreaseSix Six
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_1bill_110000_rte_073000228_9999962:
+  planned_premium: 110000
+  billing_type: Direct Billing
+  billing_frequency: One Time Billing
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount: 110000
+  banking_details_use_future_pmts:
+  routing_number: 073000228
+  bank_name:
+  account_type:
+  account_number: '9999962'
+  bank_signature: Decreasefive Five
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_1bill_11545_22_rte_073921158_65289:
+  planned_premium: 11545.22
+  billing_type: Direct Billing
+  billing_frequency: One Time Billing
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount: 11545.22
+  banking_details_use_future_pmts:
+  routing_number: 073921158
+  bank_name:
+  account_type:
+  account_number: 65289
+  bank_signature: Decreasethree Three
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_1bill_12000_rte_073000642_199589:
+  planned_premium: 12000
+  billing_type: Direct Billing
+  billing_frequency: One Time Billing
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount: 12000
+  banking_details_use_future_pmts:
+  routing_number: '073000642'
+  bank_name:
+  account_type: Savings
+  account_number: '199589'
+  bank_signature: Decreasefour Four
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_1bill_1500_rte_073921158_659623:
+  planned_premium: 1500
+  billing_type: Direct Billing
+  billing_frequency: One Time Billing
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount: 1500
+  banking_details_use_future_pmts:
+  routing_number: 073921158
+  bank_name:
+  account_type: Savings
+  account_number: '659623'
+  bank_signature: DecreaseSeven Seven
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_1bill_1500_rte_1236589:
+  planned_premium: 1500
+  billing_type: Direct Billing
+  billing_frequency: One Time Billing
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount: 1500
+  banking_details_use_future_pmts:
+  routing_number: 1236589
+  bank_name:
+  account_type:
+  account_number:
+  bank_signature: Decreaseone One
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_1bill_18280.08_rte_073000642_569898:
+  planned_premium: 18280.08
+  billing_type: Direct Billing
+  billing_frequency: One Time Billing
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount: 18280.08
+  banking_details_use_future_pmts:
+  routing_number: '073000642'
+  bank_name:
+  account_type: Savings
+  account_number: 569898
+  bank_signature: Decreasefour Four
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_1bill_185000_rte_073000228_4896536:
+  planned_premium: 185000
+  billing_type: Direct Billing
+  billing_frequency: One Time Billing
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount: 185000
+  banking_details_use_future_pmts:
+  routing_number: 07000228
+  bank_name:
+  account_type:
+  account_number: 4896536
+  bank_signature: Decfourteen Fourteen
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_1bill_25000_rte_073921158_236985:
+  planned_premium: 25000
+  billing_type: Direct Billing
+  billing_frequency: One Time Billing
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount: 25000
+  banking_details_use_future_pmts:
+  routing_number: 073921158
+  bank_name:
+  account_type: Savings
+  account_number: 236985
+  bank_signature: Decthirteen Thirteen
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_1bill_30000_rte_073000228_12583555:
+  planned_premium: 30000
+  billing_type: Direct Billing
+  billing_frequency: One Time Billing
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount: 30000
+  banking_details_use_future_pmts:
+  routing_number: 073000228
+  bank_name:
+  account_type: Savings
+  account_number: 12583555
+  bank_signature: Dectwelve Ttwelve
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_1bill_3324.97_rte_073000228_7897656:
+  planned_premium: 3324.97
+  billing_type: Direct Billing
+  billing_frequency: One Time Billing
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount: 3324.97
+  banking_details_use_future_pmts:
+  routing_number: 073000228
+  bank_name:
+  account_type:
+  account_number: 7897656
+  bank_signature: Decfifteen Fifteen
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_1bill_4500_rte_073000642_458456:
+  planned_premium: 4500
+  billing_type: Direct Billing
+  billing_frequency: One Time Billing
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount: 4500
+  banking_details_use_future_pmts:
+  routing_number: '073000642'
+  bank_name:
+  account_type:
+  account_number: 458456
+  bank_signature: DecreaseNine Nine
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_1bill_7000_rte_073000228_8542693:
+  planned_premium: 7000
+  billing_type: Direct Billing
+  billing_frequency: One Time Billing
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount: 7000
+  banking_details_use_future_pmts:
+  routing_number: 073000228
+  bank_name:
+  account_type:
+  account_number: 8542693
+  bank_signature: Decreaseten Ten
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_1bill_70000_rte_100589:
+  planned_premium: 70000
+  billing_type: Direct Billing
+  billing_frequency: One Time Billing
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount: 70000
+  banking_details_use_future_pmts:
+  routing_number: 100589
+  bank_name:
+  account_type: Savings
+  account_number:
+  bank_signature: DecreaseTwo Two
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_1bill_9471_29_rte_073000228_529656:
+  planned_premium: 9471.29
+  billing_type: Direct Billing
+  billing_frequency: One Time Billing
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount: 9471.29
+  banking_details_use_future_pmts:
+  routing_number: 073000228
+  bank_name:
+  account_type: Savings
+  account_number: 529656
+  bank_signature: DecreaseEight Eight
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_annl_1K_rte_073000642_985565:
+  planned_premium: 1000
+  billing_type: Direct Billing
+  billing_frequency: Annually
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount: 1000
+  banking_details_use_future_pmts:
+  routing_number: '073000642'
+  bank_name:
+  account_type:
+  account_number: 985565
+  bank_signature: Lapsetwo Two
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_annl_100K_rte_073000642_15269:
+  planned_premium: 100000
+  billing_type: Direct Billing
+  billing_frequency: Annually
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount: 100000
+  banking_details_use_future_pmts:
+  routing_number: '073000642'
+  bank_name:
+  account_type:
+  account_number: 15269
+  bank_signature: Lapsethree Three
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_annl_11189.75:
+  planned_premium: 11189.75
+  billing_type: Direct Billing
+  billing_frequency: Annually
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number:
+  bank_name:
+  account_type:
+  account_number:
+  bank_signature:
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_annl_1170:
+  planned_premium: 1170
+  billing_type: Direct Billing
+  billing_frequency: Annually
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number:
+  bank_name:
+  account_type:
+  account_number:
+  bank_signature:
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_annl_126K:
+  planned_premium: 126000
+  billing_type: Direct Billing
+  billing_frequency: Annually
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number:
+  bank_name:
+  account_type:
+  account_number:
+  bank_signature:
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_annl_1370.89:
+  planned_premium: 1370.89
+  billing_type: Direct Billing
+  billing_frequency: Annually
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number:
+  bank_name:
+  account_type:
+  account_number:
+  bank_signature:
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_annl_15K_rte_073000642_56565:
+  planned_premium: 15000
+  billing_type: Direct Billing
+  billing_frequency: Annually
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP: checked
+  EIP_amount: 15000
+  banking_details_use_future_pmts:
+  routing_number: '073000642'
+  bank_name:
+  account_type:
+  account_number: 56565
+  bank_signature: Lapsesix Six
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_annl_15K:
+  planned_premium: 15000
+  billing_type: Direct Billing
+  billing_frequency: Annually
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number:
+  bank_name:
+  account_type:
+  account_number:
+  bank_signature:
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_annl_19673.50:
+  planned_premium: 19673.5
+  billing_type: Direct Billing
+  billing_frequency: Annually
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number:
+  bank_name:
+  account_type:
+  account_number:
+  bank_signature:
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_annl_1K_rte_073000642_15269_EIP:
+  planned_premium: 1000
+  billing_type: EFT
+  billing_frequency: Annually
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP: checked
+  EIP_amount: 1000
+  banking_details_use_future_pmts:
+  routing_number: '073000642'
+  bank_name:
+  account_type: Savings
+  account_number: 15269
+  bank_signature: Surrthree Three
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_annl_200000_rte_073000642_56565_EIP:
+  planned_premium: 200000
+  billing_type: EFT
+  billing_frequency: Annually
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP: checked
+  EIP_amount: 200000
+  banking_details_use_future_pmts:
+  routing_number: '073000642'
+  bank_name:
+  account_type: Savings
+  account_number: 56565
+  bank_signature: Surrthree Three
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_annl_2190:
+  planned_premium: 2190
+  billing_type: Direct Billing
+  billing_frequency: Annually
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number:
+  bank_name:
+  account_type:
+  account_number:
+  bank_signature:
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_annl_254:
+  planned_premium: 254
+  billing_type: Direct Billing
+  billing_frequency: Annually
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number:
+  bank_name:
+  account_type:
+  account_number:
+  bank_signature:
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_annl_26502.60_rte_073000642_986532:
+  planned_premium: 26502.6
+  billing_type: Direct Billing
+  billing_frequency: Annually
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP: checked
+  EIP_amount: 26502.6
+  banking_details_use_future_pmts:
+  routing_number: '073000642'
+  bank_name:
+  account_type: Savings
+  account_number: 986532
+  bank_signature: Lapsefive Five
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_annl_26934:
+  planned_premium: 26934
+  billing_type: Direct Billing
+  billing_frequency: Annually
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number:
+  bank_name:
+  account_type:
+  account_number:
+  bank_signature:
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_annl_29760:
+  planned_premium: 29760
+  billing_type: Direct Billing
+  billing_frequency: Annually
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number:
+  bank_name:
+  account_type:
+  account_number:
+  bank_signature:
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_annl_2K:
+  planned_premium: 2000
+  billing_type: Direct Billing
+  billing_frequency: Annually
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number:
+  bank_name:
+  account_type:
+  account_number:
+  bank_signature:
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_annl_300:
+  planned_premium: 300
+  billing_type: Direct Billing
+  billing_frequency: Annually
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number:
+  bank_name:
+  account_type:
+  account_number:
+  bank_signature:
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_annl_329453.90_rte_073000228_1255589_EIP:
+  planned_premium: 329453.9
+  billing_type: EFT
+  billing_frequency: Annually
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP: checked
+  EIP_amount: 329453.9
+  banking_details_use_future_pmts:
+  routing_number: 73000228
+  bank_name:
+  account_type: Savings
+  account_number: 1255589
+  bank_signature: Surrthree Three
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_annl_3305.18:
+  planned_premium: 3305.18
+  billing_type: Direct Billing
+  billing_frequency: Annually
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number:
+  bank_name:
+  account_type:
+  account_number:
+  bank_signature:
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_annl_3324.97:
+  planned_premium: 3324.97
+  billing_type: Direct Billing
+  billing_frequency: Annually
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number:
+  bank_name:
+  account_type:
+  account_number:
+  bank_signature:
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_annl_3349.50:
+  planned_premium: 3349.5
+  billing_type: Direct Billing
+  billing_frequency: Annually
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number:
+  bank_name:
+  account_type:
+  account_number:
+  bank_signature:
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_annl_35895:
+  planned_premium: 35895
+  billing_type: Direct Billing
+  billing_frequency: Annually
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number:
+  bank_name:
+  account_type:
+  account_number:
+  bank_signature:
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_annl_35K:
+  planned_premium: 3500
+  billing_type: Direct Billing
+  billing_frequency: Annually
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number:
+  bank_name:
+  account_type:
+  account_number:
+  bank_signature:
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_annl_400:
+  planned_premium: 400
+  billing_type: Direct Billing
+  billing_frequency: Annually
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number:
+  bank_name:
+  account_type:
+  account_number:
+  bank_signature:
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_annl_4086:
+  planned_premium: 4086
+  billing_type: Direct Billing
+  billing_frequency: Annually
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number:
+  bank_name:
+  account_type:
+  account_number:
+  bank_signature:
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_annl_4687.04:
+  planned_premium: 4687.04
+  billing_type: Direct Billing
+  billing_frequency: Annually
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number:
+  bank_name:
+  account_type:
+  account_number:
+  bank_signature:
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_annl_5042.18:
+  planned_premium: 5042.18
+  billing_type: Direct Billing
+  billing_frequency: Annually
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number:
+  bank_name:
+  account_type:
+  account_number:
+  bank_signature:
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_annl_50K:
+  planned_premium: 50000
+  billing_type: Direct Billing
+  billing_frequency: Annually
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number:
+  bank_name:
+  account_type:
+  account_number:
+  bank_signature:
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_annl_5660.50:
+  planned_premium: 5560.5
+  billing_type: Direct Billing
+  billing_frequency: Annually
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number:
+  bank_name:
+  account_type:
+  account_number:
+  bank_signature:
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_annl_6120:
+  planned_premium: 6120
+  billing_type: Direct Billing
+  billing_frequency: Annually
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number:
+  bank_name:
+  account_type:
+  account_number:
+  bank_signature:
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_annl_6537.12:
+  planned_premium: 6537.12
+  billing_type: Direct Billing
+  billing_frequency: Annually
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number:
+  bank_name:
+  account_type:
+  account_number:
+  bank_signature:
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_annl_6659.26_rte_073000641_6458555_EIP:
+  planned_premium: 6659.26
+  billing_type: EFT
+  billing_frequency: Annually
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP: checked
+  EIP_amount: 6659.26
+  banking_details_use_future_pmts:
+  routing_number: '073000642'
+  bank_name:
+  account_type: Savings
+  account_number: 6458555
+  bank_signature: Surrone One
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_annl_6690.50:
+  planned_premium: 6690.5
+  billing_type: Direct Billing
+  billing_frequency: Annually
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number:
+  bank_name:
+  account_type:
+  account_number:
+  bank_signature:
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_annl_7781.94_rte_073000642_569898_EIP:
+  planned_premium: 7781.94
+  billing_type: EFT
+  billing_frequency: Annually
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP: checked
+  EIP_amount: 7781.94
+  banking_details_use_future_pmts:
+  routing_number: '073000642'
+  bank_name:
+  account_type: Savings
+  account_number: 569898
+  bank_signature: Surrtwo Two
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_annl_785:
+  planned_premium: 785
+  billing_type: Direct Billing
+  billing_frequency: Annually
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number:
+  bank_name:
+  account_type:
+  account_number:
+  bank_signature:
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_annl_819.63:
+  planned_premium: 819.63
+  billing_type: Direct Billing
+  billing_frequency: Annually
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number:
+  bank_name:
+  account_type:
+  account_number:
+  bank_signature:
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_annl_820.87:
+  planned_premium: 820.87
+  billing_type: Direct Billing
+  billing_frequency: Annually
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number:
+  bank_name:
+  account_type:
+  account_number:
+  bank_signature:
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_annl_941886.50:
+  planned_premium: 941886.5
+  billing_type: Direct Billing
+  billing_frequency: Annually
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number:
+  bank_name:
+  account_type:
+  account_number:
+  bank_signature:
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_annl_txfr_100K:
+  planned_premium: 300
+  billing_type: Direct Billing
+  billing_frequency: Annually
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number:
+  bank_name:
+  account_type:
+  account_number:
+  bank_signature:
+  transfer_amount: 100000
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_qtr_1085.08:
+  planned_premium: 1085.08
+  billing_type: Direct Billing
+  billing_frequency: Quarterly
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number:
+  bank_name:
+  account_type:
+  account_number:
+  bank_signature:
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_qtr_269:
+  planned_premium: 269
+  billing_type: Direct Billing
+  billing_frequency: Quarterly
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number:
+  bank_name:
+  account_type:
+  account_number:
+  bank_signature:
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_qtr_316.25:
+  planned_premium: 316.25
+  billing_type: Direct Billing
+  billing_frequency: Quarterly
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number:
+  bank_name:
+  account_type:
+  account_number:
+  bank_signature:
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_qtr_318.77:
+  planned_premium: 318.77
+  billing_type: Direct Billing
+  billing_frequency: Quarterly
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number:
+  bank_name:
+  account_type:
+  account_number:
+  bank_signature:
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_qtr_3268.56:
+  planned_premium: 3268.56
+  billing_type: Direct Billing
+  billing_frequency: Quarterly
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number:
+  bank_name:
+  account_type:
+  account_number:
+  bank_signature:
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_qtr_35K:
+  planned_premium: 3500
+  billing_type: Direct Billing
+  billing_frequency: Quarterly
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number:
+  bank_name:
+  account_type:
+  account_number:
+  bank_signature:
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_qtr_645:
+  planned_premium: 645
+  billing_type: Direct Billing
+  billing_frequency: Quarterly
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number:
+  bank_name:
+  account_type:
+  account_number:
+  bank_signature:
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_qtr_730:
+  planned_premium: 730
+  billing_type: Direct Billing
+  billing_frequency: Quarterly
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number:
+  bank_name:
+  account_type:
+  account_number:
+  bank_signature:
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_smiannl_1550:
+  planned_premium: 1550
+  billing_type: Direct Billing
+  billing_frequency: Semi-Annual
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number:
+  bank_name:
+  account_type:
+  account_number:
+  bank_signature:
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_smiannl_1K:
+  planned_premium: 1000
+  billing_type: Direct Billing
+  billing_frequency: Semi-Annual
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number:
+  bank_name:
+  account_type:
+  account_number:
+  bank_signature:
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_smiannl_13300:
+  planned_premium: 13300
+  billing_type: Direct Billing
+  billing_frequency: Semi-Annual
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number:
+  bank_name:
+  account_type:
+  account_number:
+  bank_signature:
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_smiannl_3550:
+  planned_premium: 3550
+  billing_type: Direct Billing
+  billing_frequency: Semi-Annual
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number:
+  bank_name:
+  account_type:
+  account_number:
+  bank_signature:
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_smiannl_3651.01:
+  planned_premium: 3651.01
+  billing_type: Direct Billing
+  billing_frequency: Semi-Annual
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number:
+  bank_name:
+  account_type:
+  account_number:
+  bank_signature:
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_smiannl_475:
+  planned_premium: 475
+  billing_type: Direct Billing
+  billing_frequency: Semi-Annual
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number:
+  bank_name:
+  account_type:
+  account_number:
+  bank_signature:
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_smiannl_536:
+  planned_premium: 536
+  billing_type: Direct Billing
+  billing_frequency: Semi-Annual
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number:
+  bank_name:
+  account_type:
+  account_number:
+  bank_signature:
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_smiannl_5446.78:
+  planned_premium: 5446.78
+  billing_type: Direct Billing
+  billing_frequency: Semi-Annual
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number:
+  bank_name:
+  account_type:
+  account_number:
+  bank_signature:
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_smiannl_576:
+  planned_premium: 576
+  billing_type: Direct Billing
+  billing_frequency: Semi-Annual
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number:
+  bank_name:
+  account_type:
+  account_number:
+  bank_signature:
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_smiannl_5921:
+  planned_premium: 5921
+  billing_type: Direct Billing
+  billing_frequency: Semi-Annual
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number:
+  bank_name:
+  account_type:
+  account_number:
+  bank_signature:
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_smiannl_6675:
+  planned_premium: 6675
+  billing_type: Direct Billing
+  billing_frequency: Semi-Annual
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number:
+  bank_name:
+  account_type:
+  account_number:
+  bank_signature:
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_smiannl_817:
+  planned_premium: 817
+  billing_type: Direct Billing
+  billing_frequency: Semi-Annual
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number:
+  bank_name:
+  account_type:
+  account_number:
+  bank_signature:
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_smiannl_885:
+  planned_premium: 885
+  billing_type: Direct Billing
+  billing_frequency: Semi-Annual
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number:
+  bank_name:
+  account_type:
+  account_number:
+  bank_signature:
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+dir_smiannl_925:
+  planned_premium: 925
+  billing_type: Direct Billing
+  billing_frequency: Semi-Annual
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number:
+  bank_name:
+  account_type:
+  account_number:
+  bank_signature:
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+EFT_mth_297_073000642_11151996_Prod44:
+  planned_premium: 297
+  billing_type: EFT
+  billing_frequency: Monthly
+  initial_yrs_payable:
+  draft_day: 10
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number: '073000642'
+  bank_name:
+  account_type:
+  account_number: 11151969
+  bank_signature: Product Fortyfour
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+EFT_mth_25578_073000642_11151929_Prod36:
+  planned_premium: 1521
+  billing_type: EFT
+  billing_frequency: Monthly
+  initial_yrs_payable:
+  draft_day: 21
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number: '073000642'
+  bank_name:
+  account_type:
+  account_number: 11151969
+  bank_signature: Product Fortyone
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+EFT_mth_1100_073000642_11151969_Prod52:
+  planned_premium: 1100
+  billing_type: EFT
+  billing_frequency: Monthly
+  initial_yrs_payable:
+  draft_day: 5
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number: '073000642'
+  bank_name:
+  account_type:
+  account_number: 11151969
+  bank_signature: Product Fiftytwo
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+EFT_mth_1100_073000642_11151969_Prod28:
+  planned_premium: 1100
+  billing_type: EFT
+  billing_frequency: Monthly
+  initial_yrs_payable:
+  draft_day: 18
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number: '073000642'
+  bank_name:
+  account_type:
+  account_number: 11151969
+  bank_signature: Product Twentyeight
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+EFT_mth_1521_073000642_11151969_Prod40:
+  planned_premium: 1521
+  billing_type: EFT
+  billing_frequency: Monthly
+  initial_yrs_payable:
+  draft_day: 21
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number: '073000642'
+  bank_name:
+  account_type:
+  account_number: 11151969
+  bank_signature: Product Forty
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+EFT_mth_1521_073000642_11151969_Prod40_2:
+  planned_premium: 1521
+  billing_type: EFT
+  billing_frequency: Monthly
+  initial_yrs_payable:
+  draft_day: 21
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number: '073000642'
+  bank_name:
+  account_type:
+  account_number: 11151969
+  bank_signature: James Forty
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+EFT_mth_1521_073000642_11151969_Prod41:
+  planned_premium: 1521
+  billing_type: EFT
+  billing_frequency: Monthly
+  initial_yrs_payable:
+  draft_day: 21
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number: '073000642'
+  bank_name:
+  account_type:
+  account_number: 11151969
+  bank_signature: Product Fortyone
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+EFT_mth_1821.91_073000642_11151903:
+  planned_premium: 1821.91
+  billing_type: EFT
+  billing_frequency: Monthly
+  initial_yrs_payable:
+  draft_day: 15
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number: '073000642'
+  bank_name:
+  account_type:
+  account_number: 11151903
+  bank_signature:
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+EFT_mth_22578_073000642_11151929:
+  planned_premium: 22578
+  billing_type: EFT
+  billing_frequency: Monthly
+  initial_yrs_payable:
+  draft_day: 15
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number: '073000642'
+  bank_name:
+  account_type:
+  account_number: 11151929
+  bank_signature:
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+EFT_mth_248.34_073000642_08191911:
+  planned_premium: 707.12
+  billing_type: EFT
+  billing_frequency: Monthly
+  initial_yrs_payable:
+  draft_day: 18
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number: '073000642'
+  bank_name:
+  account_type:
+  account_number: 08191911
+  bank_signature:
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+EFT_mth_248.34_073000642_11151906:
+  planned_premium: 248.34
+  billing_type: EFT
+  billing_frequency: Monthly
+  initial_yrs_payable:
+  draft_day: 15
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number: '073000642'
+  bank_name:
+  account_type:
+  account_number: 11151906
+  bank_signature:
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+routing_invalid_1:
+  planned_premium:
+  billing_type:
+  billing_frequency:
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number: 123456789
+  bank_name: BANKERS TRUST COMPANY
+  account_type:
+  account_number:
+  bank_signature:
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+routing_valid_rte_73000642:
+  planned_premium:
+  billing_type:
+  billing_frequency:
+  initial_yrs_payable:
+  draft_day:
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number: 73000642
+  bank_name: BANKERS TRUST COMPANY
+  account_type:
+  account_number:
+  bank_signature:
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:
+EFT_mth_9875_073000642_11151929_Prod48:
+  planned_premium: 1521
+  billing_type: EFT
+  billing_frequency: Monthly
+  initial_yrs_payable:
+  draft_day: 10
+  banking_details_EIP:
+  EIP_amount:
+  banking_details_use_future_pmts:
+  routing_number: '073000642'
+  bank_name:
+  account_type:
+  account_number: 11151969
+  bank_signature: Product Fortyeight
+  transfer_amount:
+  group_employer_name:
+  group_number:
+  group_member_id:

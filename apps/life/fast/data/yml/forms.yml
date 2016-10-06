@@ -1,0 +1,42 @@
+#Workbook: C:/devl/SAF_dev/apps/life/fast/data/excel/fast_data_workbook.xlsx
+#Worksheet: forms
+---
+all:
+  form_name: all
+  form_IGO:
+  form_reason:
+  form_annuity_buyers_guide:
+  form_app_section_C:
+  form_app_section_D:
+  form_app_section_J:
+  form_customer_acct_record:
+  form_entity_cert:
+  form_fixed_annuity:
+  form_replacement:
+  form_source_of_funds:
+fm_annBuyers_C_D_J_rec_cert_fixed:
+  form_name:
+  form_IGO:
+  form_reason:
+  form_annuity_buyers_guide: checked
+  form_app_section_C: checked
+  form_app_section_D: checked
+  form_app_section_J: checked
+  form_customer_acct_record: checked
+  form_entity_cert: checked
+  form_fixed_annuity: checked
+  form_replacement:
+  form_source_of_funds:
+fm_annBuyers_C_D_J_rec_cert_fixed_repl_srcFunds:
+  form_name:
+  form_IGO:
+  form_reason:
+  form_annuity_buyers_guide: checked
+  form_app_section_C: checked
+  form_app_section_D: checked
+  form_app_section_J: checked
+  form_customer_acct_record: checked
+  form_entity_cert: checked
+  form_fixed_annuity: checked
+  form_replacement: checked
+  form_source_of_funds: checked

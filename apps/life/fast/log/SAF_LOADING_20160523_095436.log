@@ -1,0 +1,14 @@
+      INFO ../../jruby-1.7.25/lib/ruby/gems/shared/gems/cucumber-2.3.3/lib/cucumber/runtime/support_code.rb:84: project = life/fast
+      INFO ../../jruby-1.7.25/lib/ruby/gems/shared/gems/cucumber-2.3.3/lib/cucumber/runtime/support_code.rb:84: SAF_ENV = default
+      INFO ../../jruby-1.7.25/lib/ruby/gems/shared/gems/cucumber-2.3.3/lib/cucumber/runtime/support_code.rb:84: ENABLE_REMOTE_LOGGING = true
+      INFO ../../jruby-1.7.25/lib/ruby/gems/shared/gems/cucumber-2.3.3/lib/cucumber/runtime/support_code.rb:84: LOGSTASH_HOST = "showinpoc01.fbfs.com"
+      INFO ../../jruby-1.7.25/lib/ruby/gems/shared/gems/cucumber-2.3.3/lib/cucumber/runtime/support_code.rb:84: LOGSTASH_PORT = 5514
+      INFO ../../jruby-1.7.25/lib/ruby/gems/shared/gems/cucumber-2.3.3/lib/cucumber/runtime/support_code.rb:84: HOST = nil
+      INFO ../../jruby-1.7.25/lib/ruby/gems/shared/gems/cucumber-2.3.3/lib/cucumber/runtime/support_code.rb:84: REMOTE_HOST = "showinpoc01.fbfs.com"
+      INFO ../../jruby-1.7.25/lib/ruby/gems/shared/gems/cucumber-2.3.3/lib/cucumber/runtime/support_code.rb:84: REMOTE_PORT = 4444
+      INFO ../../jruby-1.7.25/lib/ruby/gems/shared/gems/cucumber-2.3.3/lib/cucumber/runtime/support_code.rb:84: IN_BROWSER = "true"
+      INFO ../../jruby-1.7.25/lib/ruby/gems/shared/gems/cucumber-2.3.3/lib/cucumber/runtime/support_code.rb:84: BROWSER = "internet_explorer"
+      INFO ../../jruby-1.7.25/lib/ruby/gems/shared/gems/cucumber-2.3.3/lib/cucumber/runtime/support_code.rb:84: LOG_LEVEL = "Logger::INFO"
+      INFO ../../jruby-1.7.25/lib/ruby/gems/shared/gems/cucumber-2.3.3/lib/cucumber/runtime/support_code.rb:84: TAKE_SCREEN_SHOT = "true"
+      INFO ../../jruby-1.7.25/lib/ruby/gems/shared/gems/cucumber-2.3.3/lib/cucumber/runtime/support_code.rb:84: TAKE_SCREEN_SHOT_ON_FAIL = "true"
+      INFO ../../jruby-1.7.25/lib/ruby/gems/shared/gems/cucumber-2.3.3/lib/cucumber/runtime/support_code.rb:84: TAKE_SCREEN_SHOT_ON_WARNING = "false"

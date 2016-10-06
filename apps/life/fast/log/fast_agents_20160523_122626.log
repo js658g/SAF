@@ -1,0 +1,1 @@
+UNRESOLVED ../../jruby-1.7.25/lib/ruby/gems/shared/gems/cucumber-core-1.4.0/lib/cucumber/core/test/action.rb:56: Unable to find xpath "//div[contains(@class, 'x-combo-list')][not(contains(@style, 'hidden'))]/div[@class='x-combo-list-inner']/div[contains(., 'Universal Life')]"

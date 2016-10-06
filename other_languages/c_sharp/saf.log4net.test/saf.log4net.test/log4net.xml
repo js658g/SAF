@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!-- Note that this file is not compiled, and is copied to the run directory.
+     There is probably a better way to do this, but this will work for an
+     example of how to log to Kibana. -->
+<log4net>
+  <!-- stdout is set to be a ConsoleAppender -->
+  <appender name="stdout" type="log4net.Appender.ConsoleAppender">
+
+    <!-- stdout uses PatternLayout -->
+    <layout type="log4net.Layout.PatternLayout">
+      <conversionPattern value="%-4timestamp [%thread] %-5level %logger %ndc - %message%newline" />
+    </layout>
+  </appender>
+
+  <appender name="kibana" type="log4net.Appender.TcpAppender">
+    <remoteAddress value="showinpoc01.fbfs.com" />
+    <remotePort value="5514" />
+    <layout type="log4net.Layout.PatternLayout">
+      <conversionPattern value=
+        '{
+        "thread":"%thread",
+        "priority":"%level",
+        "logger_name":"%logger",
+        "NDC":"%ndc",
+        "message":"%message"
+        }%newline' />
+    </layout>
+  </appender>
+
+  <!-- Set root logger level to DEBUG and its appenders are kibana and stdout -->
+  <root>
+    <level value="DEBUG" />
+    <appender-ref ref="stdout" />
+    <appender-ref ref="kibana"/>
+  </root>
+</log4net>

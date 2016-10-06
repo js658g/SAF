@@ -1,0 +1,13 @@
+#Workbook: C:/devl/SAF_dev/apps/life/fast/data/excel/fast_data_workbook.xlsx
+#Worksheet: beneficiary_org
+---
+Org_220001111_Employer_Percent_100:
+  primary_beneficiaries_share_equally:
+  contingent_beneficiaries_share_equally:
+  org_name: BOW WOW Dog House
+  trust_date: !ruby/object:DateTime '2000-06-01 00:00:00.000000000 Z'
+  govt_id_type: Taxpayer Identification Number
+  govt_id: 220001111
+  role: Beneficiary
+  relation: Employer
+  percentage: 100

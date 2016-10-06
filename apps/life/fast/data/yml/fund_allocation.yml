@@ -1,0 +1,10 @@
+#Workbook: C:/devl/SAF_dev/apps/life/fast/data/excel/fast_data_workbook.xlsx
+#Worksheet: fund_allocation
+---
+equityIndxPttoPt:
+  fund_type: Equity Index Pt to Pt
+  fund_percentage:
+  fund_transfer_indicator:
+  fund_category:
+  index_options:
+  index_percentage:

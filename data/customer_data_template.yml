@@ -1,0 +1,34 @@
+# $Id: customer_data_template.yml 386 2016-05-13 13:42:41Z e0c2425 $
+---
+default: &default
+
+customer_data:
+  <<: *default
+  name_prefix: 
+  name_suffix: 
+  first_name: 
+  middle_name: 
+  last_name: 
+  birth_date: 
+  id_type:
+  id_number:
+  social_security_number: 
+  drivers_license_number: 
+  drivers_license_state: 
+  address_line_1: 
+  address_line_2: 
+  address_line_3: 
+  city: 
+  state: 
+  zip_code: 
+  zip_extension: 
+  home_phone:
+  cell_phone: 
+  business_phone:
+  email: 
+  preferred_contact_method: 
+  preferred_language: 
+  occupation:
+  income:
+  net_worth:
+  smoker_status:

@@ -1,0 +1,31 @@
+#encoding: utf-8
+# $Id: cucumber.yml 376 2016-05-11 03:24:12Z e0c2425 $
+
+# The execution of a profile simply requires the use of the flag --profile or -p .
+# During execution you can also specify additional parameters alongside the profile.
+# For example, to execute all FBFS tests using env_variables.yml directive 'test'
+#   cucumber -p FBFS SAF_ENV=test
+
+# Even multiple profiles can be specified together. The following executes all the
+# features and scenarios tagged as @bvt with the specified progress and html output.
+#   cucumber -p html_output -p FBFS
+
+<%
+  cuke_color   = ENV['CUKE_COLOR']
+  cuke_base    = '-r features'
+  color        = (cuke_color = true ? '--color' : '--no-color')
+  std_opts     = '#{color} --format pretty --no-source --tags ~@wip'
+  debug_opts   = '--backtrace --fail-fast --verbose'
+%>
+
+debug: --backtrace --fail-fast --verbose
+html_output: --format html --tags ~@wip
+
+SAF: apps/saf PROJECT=saf <%= cuke_base %> <%= std_opts %>
+SAF_debug: apps/saf PROJECT=saf <%= cuke_base %> <%= debug_opts %>
+
+FAST: apps/life/fast PROJECT=life/fast <%= cuke_base %> <%= std_opts %>
+FAST_debug: apps/life/fast PROJECT=life/fast <%= cuke_base %> <%= debug_opts %>
+
+FBFS: apps/marketing/fbfs PROJECT=marketing/fbfs <%= cuke_base %> <%= std_opts %>
+FBFS_debug: apps/marketing/fbfs PROJECT=marketing/fbfs <%= cuke_base %> <%= debug_opts %>

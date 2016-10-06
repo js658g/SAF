@@ -1,0 +1,1095 @@
+#Workbook: C:/devl/SAF_dev/apps/life/fast/data/excel/fast_data_workbook.xlsx
+#Worksheet: plan
+---
+defAnn_SelIVFixed_FlexPrem6_IRAReg:
+  total_face_amount:
+  conversion_GIO_amount:
+  premium:
+  plan_name: Deferred Annuity Product
+  issue_date:
+  coverage_type:
+  premium_period:
+  dividend_option:
+  nonforfeiture_option:
+  policy_type: Select IV - Fixed Annuity
+  policy_option: Flexible Premium Portfolio 6
+  plan_type: IRA-Regular
+  death_benefit_option:
+  qualification_test:
+  other_life_or_annuity:
+  existing_coverage_replacement:
+  existing_insurer_name:
+  existing_policy_number:
+  existing_plan_ID:
+  policy_mailing:
+defAnn_SelIVFixed_FlexPrem6_NonQual_other_plan:
+  total_face_amount:
+  conversion_GIO_amount:
+  premium:
+  plan_name:
+  issue_date:
+  coverage_type:
+  premium_period:
+  dividend_option:
+  nonforfeiture_option:
+  policy_type: Select IV - Fixed Annuity
+  policy_option: Flexible Premium Portfolio 6
+  plan_type: Non-Qualified
+  death_benefit_option:
+  qualification_test:
+  other_life_or_annuity: 'yes'
+  existing_coverage_replacement:
+  existing_insurer_name:
+  existing_policy_number:
+  existing_plan_ID: OrgCorp_Employer_220001111
+  policy_mailing:
+defAnn_SelIVFixed_FlexPrem6_NonQual_other_plan_replace:
+  total_face_amount:
+  conversion_GIO_amount:
+  premium:
+  plan_name:
+  issue_date:
+  coverage_type:
+  premium_period:
+  dividend_option:
+  nonforfeiture_option:
+  policy_type: Select IV - Fixed Annuity
+  policy_option: Flexible Premium Portfolio 6
+  plan_type: Non-Qualified
+  death_benefit_option:
+  qualification_test:
+  other_life_or_annuity: 'yes'
+  existing_coverage_replacement: 'yes'
+  existing_insurer_name:
+  existing_policy_number:
+  existing_plan_ID:
+  policy_mailing:
+EIUL2015_convGIO_110K_dthOptA_CashVal_160K:
+  total_face_amount: 160000
+  conversion_GIO_amount: 110000
+  premium:
+  plan_name: FBL Indexed Universal Life
+  issue_date:
+  coverage_type: EIUL 2015
+  premium_period:
+  dividend_option:
+  nonforfeiture_option:
+  policy_type:
+  policy_option:
+  plan_type:
+  death_benefit_option: Option A - Face Plus Account Value
+  qualification_test: Cash Value Accumulation Test
+  other_life_or_annuity:
+  existing_coverage_replacement:
+  existing_insurer_name:
+  existing_policy_number:
+  existing_plan_ID:
+  policy_mailing:
+EIUL2015_convGIO_50K_dthOptA_CashVal_50K:
+  total_face_amount: 50000
+  conversion_GIO_amount: 50000
+  premium:
+  plan_name: FBL Indexed Universal Life
+  issue_date:
+  coverage_type: EIUL 2015
+  premium_period:
+  dividend_option:
+  nonforfeiture_option:
+  policy_type:
+  policy_option:
+  plan_type:
+  death_benefit_option: Option A - Face Plus Account Value
+  qualification_test: Cash Value Accumulation Test
+  other_life_or_annuity:
+  existing_coverage_replacement:
+  existing_insurer_name:
+  existing_policy_number:
+  existing_plan_ID:
+  policy_mailing:
+EIUL2015_convGIO_50K_dthOptA_GuiPrem_50K:
+  total_face_amount: 50000
+  conversion_GIO_amount: 50000
+  premium:
+  plan_name: FBL Indexed Universal Life
+  issue_date:
+  coverage_type: EIUL 2015
+  premium_period:
+  dividend_option:
+  nonforfeiture_option:
+  policy_type:
+  policy_option:
+  plan_type:
+  death_benefit_option: Option A - Face Plus Account Value
+  qualification_test: Guideline Premium Test
+  other_life_or_annuity:
+  existing_coverage_replacement:
+  existing_insurer_name:
+  existing_policy_number:
+  existing_plan_ID:
+  policy_mailing:
+EIUL2015_dthOptA_CashVal_100K:
+  total_face_amount: 100000
+  conversion_GIO_amount:
+  premium:
+  plan_name: FBL Indexed Universal Life
+  issue_date:
+  coverage_type: EIUL 2015
+  premium_period:
+  dividend_option:
+  nonforfeiture_option:
+  policy_type:
+  policy_option:
+  plan_type:
+  death_benefit_option: Option A - Face Plus Account Value
+  qualification_test: Cash Value Accumulation Test
+  other_life_or_annuity:
+  existing_coverage_replacement:
+  existing_insurer_name:
+  existing_policy_number:
+  existing_plan_ID:
+  policy_mailing:
+EIUL2015_dthOptA_CashVal_115K:
+  total_face_amount: 115000
+  conversion_GIO_amount:
+  premium:
+  plan_name: FBL Indexed Universal Life
+  issue_date:
+  coverage_type: EIUL 2015
+  premium_period:
+  dividend_option:
+  nonforfeiture_option:
+  policy_type:
+  policy_option:
+  plan_type:
+  death_benefit_option: Option A - Face Plus Account Value
+  qualification_test: Cash Value Accumulation Test
+  other_life_or_annuity:
+  existing_coverage_replacement:
+  existing_insurer_name:
+  existing_policy_number:
+  existing_plan_ID:
+  policy_mailing:
+EIUL2015_dthOptA_CashVal_125K:
+  total_face_amount: 125000
+  conversion_GIO_amount:
+  premium:
+  plan_name: FBL Indexed Universal Life
+  issue_date:
+  coverage_type: EIUL 2015
+  premium_period:
+  dividend_option:
+  nonforfeiture_option:
+  policy_type:
+  policy_option:
+  plan_type:
+  death_benefit_option: Option A - Face Plus Account Value
+  qualification_test: Cash Value Accumulation Test
+  other_life_or_annuity:
+  existing_coverage_replacement:
+  existing_insurer_name:
+  existing_policy_number:
+  existing_plan_ID:
+  policy_mailing:
+EIUL2015_dthOptA_CashVal_150K:
+  total_face_amount: 150000
+  conversion_GIO_amount:
+  premium:
+  plan_name: FBL Indexed Universal Life
+  issue_date:
+  coverage_type: EIUL 2015
+  premium_period:
+  dividend_option:
+  nonforfeiture_option:
+  policy_type:
+  policy_option:
+  plan_type:
+  death_benefit_option: Option A - Face Plus Account Value
+  qualification_test: Cash Value Accumulation Test
+  other_life_or_annuity:
+  existing_coverage_replacement:
+  existing_insurer_name:
+  existing_policy_number:
+  existing_plan_ID:
+  policy_mailing:
+EIUL2015_dthOptA_CashVal_175K:
+  total_face_amount: 175000
+  conversion_GIO_amount:
+  premium:
+  plan_name: FBL Indexed Universal Life
+  issue_date:
+  coverage_type: EIUL 2015
+  premium_period:
+  dividend_option:
+  nonforfeiture_option:
+  policy_type:
+  policy_option:
+  plan_type:
+  death_benefit_option: Option A - Face Plus Account Value
+  qualification_test: Cash Value Accumulation Test
+  other_life_or_annuity:
+  existing_coverage_replacement:
+  existing_insurer_name:
+  existing_policy_number:
+  existing_plan_ID:
+  policy_mailing:
+EIUL2015_dthOptA_CashVal_200K:
+  total_face_amount: 200000
+  conversion_GIO_amount:
+  premium:
+  plan_name: FBL Indexed Universal Life
+  issue_date:
+  coverage_type: EIUL 2015
+  premium_period:
+  dividend_option:
+  nonforfeiture_option:
+  policy_type:
+  policy_option:
+  plan_type:
+  death_benefit_option: Option A - Face Plus Account Value
+  qualification_test: Cash Value Accumulation Test
+  other_life_or_annuity:
+  existing_coverage_replacement:
+  existing_insurer_name:
+  existing_policy_number:
+  existing_plan_ID:
+  policy_mailing:
+EIUL2015_dthOptA_CashVal_250K:
+  total_face_amount: 250000
+  conversion_GIO_amount:
+  premium:
+  plan_name: FBL Indexed Universal Life
+  issue_date:
+  coverage_type: EIUL 2015
+  premium_period:
+  dividend_option:
+  nonforfeiture_option:
+  policy_type:
+  policy_option:
+  plan_type:
+  death_benefit_option: Option A - Face Plus Account Value
+  qualification_test: Cash Value Accumulation Test
+  other_life_or_annuity:
+  existing_coverage_replacement:
+  existing_insurer_name:
+  existing_policy_number:
+  existing_plan_ID:
+  policy_mailing:
+EIUL2015_dthOptA_CashVal_275K:
+  total_face_amount: 275000
+  conversion_GIO_amount:
+  premium:
+  plan_name: FBL Indexed Universal Life
+  issue_date:
+  coverage_type: EIUL 2015
+  premium_period:
+  dividend_option:
+  nonforfeiture_option:
+  policy_type:
+  policy_option:
+  plan_type:
+  death_benefit_option: Option A - Face Plus Account Value
+  qualification_test: Cash Value Accumulation Test
+  other_life_or_annuity:
+  existing_coverage_replacement:
+  existing_insurer_name:
+  existing_policy_number:
+  existing_plan_ID:
+  policy_mailing:
+EIUL2015_dthOptA_CashVal_300K:
+  total_face_amount: 300000
+  conversion_GIO_amount:
+  premium:
+  plan_name: FBL Indexed Universal Life
+  issue_date:
+  coverage_type: EIUL 2015
+  premium_period:
+  dividend_option:
+  nonforfeiture_option:
+  policy_type:
+  policy_option:
+  plan_type:
+  death_benefit_option: Option A - Face Plus Account Value
+  qualification_test: Cash Value Accumulation Test
+  other_life_or_annuity:
+  existing_coverage_replacement:
+  existing_insurer_name:
+  existing_policy_number:
+  existing_plan_ID:
+  policy_mailing:
+EIUL2015_dthOptA_CashVal_400K:
+  total_face_amount: 400000
+  conversion_GIO_amount:
+  premium:
+  plan_name: FBL Indexed Universal Life
+  issue_date:
+  coverage_type: EIUL 2015
+  premium_period:
+  dividend_option:
+  nonforfeiture_option:
+  policy_type:
+  policy_option:
+  plan_type:
+  death_benefit_option: Option A - Face Plus Account Value
+  qualification_test: Cash Value Accumulation Test
+  other_life_or_annuity:
+  existing_coverage_replacement:
+  existing_insurer_name:
+  existing_policy_number:
+  existing_plan_ID:
+  policy_mailing:
+EIUL2015_dthOptA_CashVal_500K:
+  total_face_amount: 500000
+  conversion_GIO_amount:
+  premium:
+  plan_name: FBL Indexed Universal Life
+  issue_date:
+  coverage_type: EIUL 2015
+  premium_period:
+  dividend_option:
+  nonforfeiture_option:
+  policy_type:
+  policy_option:
+  plan_type:
+  death_benefit_option: Option A - Face Plus Account Value
+  qualification_test: Cash Value Accumulation Test
+  other_life_or_annuity:
+  existing_coverage_replacement:
+  existing_insurer_name:
+  existing_policy_number:
+  existing_plan_ID:
+  policy_mailing:
+EIUL2015_dthOptA_CashVal_50K:
+  total_face_amount: 50000
+  conversion_GIO_amount:
+  premium:
+  plan_name: FBL Indexed Universal Life
+  issue_date:
+  coverage_type: EIUL 2015
+  premium_period:
+  dividend_option:
+  nonforfeiture_option:
+  policy_type:
+  policy_option:
+  plan_type:
+  death_benefit_option: Option A - Face Plus Account Value
+  qualification_test: Cash Value Accumulation Test
+  other_life_or_annuity:
+  existing_coverage_replacement:
+  existing_insurer_name:
+  existing_policy_number:
+  existing_plan_ID:
+  policy_mailing:
+EIUL2015_dthOptA_CashVal_75K:
+  total_face_amount: 75000
+  conversion_GIO_amount:
+  premium:
+  plan_name: FBL Indexed Universal Life
+  issue_date:
+  coverage_type: EIUL 2015
+  premium_period:
+  dividend_option:
+  nonforfeiture_option:
+  policy_type:
+  policy_option:
+  plan_type:
+  death_benefit_option: Option A - Face Plus Account Value
+  qualification_test: Cash Value Accumulation Test
+  other_life_or_annuity:
+  existing_coverage_replacement:
+  existing_insurer_name:
+  existing_policy_number:
+  existing_plan_ID:
+  policy_mailing:
+EIUL2015_dthOptA_GuiPrem_175K:
+  total_face_amount: 175000
+  conversion_GIO_amount:
+  premium:
+  plan_name: FBL Indexed Universal Life
+  issue_date:
+  coverage_type: EIUL 2015
+  premium_period:
+  dividend_option:
+  nonforfeiture_option:
+  policy_type:
+  policy_option:
+  plan_type:
+  death_benefit_option: Option A - Face Plus Account Value
+  qualification_test: Guideline Premium Test
+  other_life_or_annuity:
+  existing_coverage_replacement:
+  existing_insurer_name:
+  existing_policy_number:
+  existing_plan_ID:
+  policy_mailing:
+EIUL2015_dthOptA_GuiPrem_1M:
+  total_face_amount: 1000000
+  conversion_GIO_amount:
+  premium:
+  plan_name: FBL Indexed Universal Life
+  issue_date:
+  coverage_type: EIUL 2015
+  premium_period:
+  dividend_option:
+  nonforfeiture_option:
+  policy_type:
+  policy_option:
+  plan_type:
+  death_benefit_option: Option A - Face Plus Account Value
+  qualification_test: Guideline Premium Test
+  other_life_or_annuity:
+  existing_coverage_replacement:
+  existing_insurer_name:
+  existing_policy_number:
+  existing_plan_ID:
+  policy_mailing:
+EIUL2015_dthOptA_GuiPrem_200K:
+  total_face_amount: 200000
+  conversion_GIO_amount:
+  premium:
+  plan_name: FBL Indexed Universal Life
+  issue_date:
+  coverage_type: EIUL 2015
+  premium_period:
+  dividend_option:
+  nonforfeiture_option:
+  policy_type:
+  policy_option:
+  plan_type:
+  death_benefit_option: Option A - Face Plus Account Value
+  qualification_test: Guideline Premium Test
+  other_life_or_annuity:
+  existing_coverage_replacement:
+  existing_insurer_name:
+  existing_policy_number:
+  existing_plan_ID:
+  policy_mailing:
+EIUL2015_dthOptA_GuiPrem_275K:
+  total_face_amount: 275000
+  conversion_GIO_amount:
+  premium:
+  plan_name: FBL Indexed Universal Life
+  issue_date:
+  coverage_type: EIUL 2015
+  premium_period:
+  dividend_option:
+  nonforfeiture_option:
+  policy_type:
+  policy_option:
+  plan_type:
+  death_benefit_option: Option A - Face Plus Account Value
+  qualification_test: Guideline Premium Test
+  other_life_or_annuity:
+  existing_coverage_replacement:
+  existing_insurer_name:
+  existing_policy_number:
+  existing_plan_ID:
+  policy_mailing:
+EIUL2015_dthOptA_GuiPrem_45K:
+  total_face_amount: 45000
+  conversion_GIO_amount:
+  premium:
+  plan_name: FBL Indexed Universal Life
+  issue_date:
+  coverage_type: EIUL 2015
+  premium_period:
+  dividend_option:
+  nonforfeiture_option:
+  policy_type:
+  policy_option:
+  plan_type:
+  death_benefit_option: Option A - Face Plus Account Value
+  qualification_test: Guideline Premium Test
+  other_life_or_annuity:
+  existing_coverage_replacement:
+  existing_insurer_name:
+  existing_policy_number:
+  existing_plan_ID:
+  policy_mailing:
+EIUL2015_dthOptA_GuiPrem_50K:
+  total_face_amount: 50000
+  conversion_GIO_amount:
+  premium:
+  plan_name: FBL Indexed Universal Life
+  issue_date:
+  coverage_type: EIUL 2015
+  premium_period:
+  dividend_option:
+  nonforfeiture_option:
+  policy_type:
+  policy_option:
+  plan_type:
+  death_benefit_option: Option A - Face Plus Account Value
+  qualification_test: Guideline Premium Test
+  other_life_or_annuity:
+  existing_coverage_replacement:
+  existing_insurer_name:
+  existing_policy_number:
+  existing_plan_ID:
+  policy_mailing:
+EIUL2015_dthOptA_GuiPrem_525K:
+  total_face_amount: 525000
+  conversion_GIO_amount:
+  premium:
+  plan_name: FBL Indexed Universal Life
+  issue_date:
+  coverage_type: EIUL 2015
+  premium_period:
+  dividend_option:
+  nonforfeiture_option:
+  policy_type:
+  policy_option:
+  plan_type:
+  death_benefit_option: Option A - Face Plus Account Value
+  qualification_test: Guideline Premium Test
+  other_life_or_annuity:
+  existing_coverage_replacement:
+  existing_insurer_name:
+  existing_policy_number:
+  existing_plan_ID:
+  policy_mailing:
+EIUL2015_dthOptB_CashVal:
+  total_face_amount:
+  conversion_GIO_amount:
+  premium:
+  plan_name: FBL Indexed Universal Life
+  issue_date:
+  coverage_type: EIUL 2015
+  premium_period:
+  dividend_option:
+  nonforfeiture_option:
+  policy_type:
+  policy_option:
+  plan_type:
+  death_benefit_option: Option B - Level Face Amount
+  qualification_test: Cash Value Accumulation Test
+  other_life_or_annuity:
+  existing_coverage_replacement:
+  existing_insurer_name:
+  existing_policy_number:
+  existing_plan_ID:
+  policy_mailing:
+EIUL2015_dthOptB_CashVal_100K:
+  total_face_amount: 100000
+  conversion_GIO_amount:
+  premium:
+  plan_name: FBL Indexed Universal Life
+  issue_date:
+  coverage_type: EIUL 2015
+  premium_period:
+  dividend_option:
+  nonforfeiture_option:
+  policy_type:
+  policy_option:
+  plan_type:
+  death_benefit_option: Option B - Level Face Amount
+  qualification_test: Cash Value Accumulation Test
+  other_life_or_annuity:
+  existing_coverage_replacement:
+  existing_insurer_name:
+  existing_policy_number:
+  existing_plan_ID:
+  policy_mailing:
+EIUL2015_dthOptB_CashVal_110K:
+  total_face_amount: 110000
+  conversion_GIO_amount:
+  premium:
+  plan_name: FBL Indexed Universal Life
+  issue_date:
+  coverage_type: EIUL 2015
+  premium_period:
+  dividend_option:
+  nonforfeiture_option:
+  policy_type:
+  policy_option:
+  plan_type:
+  death_benefit_option: Option B - Level Face Amount
+  qualification_test: Cash Value Accumulation Test
+  other_life_or_annuity:
+  existing_coverage_replacement:
+  existing_insurer_name:
+  existing_policy_number:
+  existing_plan_ID:
+  policy_mailing:
+EIUL2015_dthOptB_CashVal_115K:
+  total_face_amount: 115000
+  conversion_GIO_amount:
+  premium:
+  plan_name: FBL Indexed Universal Life
+  issue_date:
+  coverage_type: EIUL 2015
+  premium_period:
+  dividend_option:
+  nonforfeiture_option:
+  policy_type:
+  policy_option:
+  plan_type:
+  death_benefit_option: Option B - Level Face Amount
+  qualification_test: Cash Value Accumulation Test
+  other_life_or_annuity:
+  existing_coverage_replacement:
+  existing_insurer_name:
+  existing_policy_number:
+  existing_plan_ID:
+  policy_mailing:
+EIUL2015_dthOptB_CashVal_125K:
+  total_face_amount: 125000
+  conversion_GIO_amount:
+  premium:
+  plan_name: FBL Indexed Universal Life
+  issue_date:
+  coverage_type: EIUL 2015
+  premium_period:
+  dividend_option:
+  nonforfeiture_option:
+  policy_type:
+  policy_option:
+  plan_type:
+  death_benefit_option: Option B - Level Face Amount
+  qualification_test: Cash Value Accumulation Test
+  other_life_or_annuity:
+  existing_coverage_replacement:
+  existing_insurer_name:
+  existing_policy_number:
+  existing_plan_ID:
+  policy_mailing:
+EIUL2015_dthOptB_CashVal_150K:
+  total_face_amount: 150000
+  conversion_GIO_amount:
+  premium:
+  plan_name: FBL Indexed Universal Life
+  issue_date:
+  coverage_type: EIUL 2015
+  premium_period:
+  dividend_option:
+  nonforfeiture_option:
+  policy_type:
+  policy_option:
+  plan_type:
+  death_benefit_option: Option B - Level Face Amount
+  qualification_test: Cash Value Accumulation Test
+  other_life_or_annuity:
+  existing_coverage_replacement:
+  existing_insurer_name:
+  existing_policy_number:
+  existing_plan_ID:
+  policy_mailing:
+EIUL2015_dthOptB_CashVal_175K:
+  total_face_amount: 175000
+  conversion_GIO_amount:
+  premium:
+  plan_name: FBL Indexed Universal Life
+  issue_date:
+  coverage_type: EIUL 2015
+  premium_period:
+  dividend_option:
+  nonforfeiture_option:
+  policy_type:
+  policy_option:
+  plan_type:
+  death_benefit_option: Option B - Level Face Amount
+  qualification_test: Cash Value Accumulation Test
+  other_life_or_annuity:
+  existing_coverage_replacement:
+  existing_insurer_name:
+  existing_policy_number:
+  existing_plan_ID:
+  policy_mailing:
+EIUL2015_dthOptB_CashVal_200K:
+  total_face_amount: 200000
+  conversion_GIO_amount:
+  premium:
+  plan_name: FBL Indexed Universal Life
+  issue_date:
+  coverage_type: EIUL 2015
+  premium_period:
+  dividend_option:
+  nonforfeiture_option:
+  policy_type:
+  policy_option:
+  plan_type:
+  death_benefit_option: Option B - Level Face Amount
+  qualification_test: Cash Value Accumulation Test
+  other_life_or_annuity:
+  existing_coverage_replacement:
+  existing_insurer_name:
+  existing_policy_number:
+  existing_plan_ID:
+  policy_mailing:
+EIUL2015_dthOptB_CashVal_250K:
+  total_face_amount: 200000
+  conversion_GIO_amount:
+  premium:
+  plan_name: FBL Indexed Universal Life
+  issue_date:
+  coverage_type: EIUL 2015
+  premium_period:
+  dividend_option:
+  nonforfeiture_option:
+  policy_type:
+  policy_option:
+  plan_type:
+  death_benefit_option: Option B - Level Face Amount
+  qualification_test: Cash Value Accumulation Test
+  other_life_or_annuity:
+  existing_coverage_replacement:
+  existing_insurer_name:
+  existing_policy_number:
+  existing_plan_ID:
+  policy_mailing:
+EIUL2015_dthOptB_CashVal_300K:
+  total_face_amount: 300000
+  conversion_GIO_amount:
+  premium:
+  plan_name: FBL Indexed Universal Life
+  issue_date:
+  coverage_type: EIUL 2015
+  premium_period:
+  dividend_option:
+  nonforfeiture_option:
+  policy_type:
+  policy_option:
+  plan_type:
+  death_benefit_option: Option B - Level Face Amount
+  qualification_test: Cash Value Accumulation Test
+  other_life_or_annuity:
+  existing_coverage_replacement:
+  existing_insurer_name:
+  existing_policy_number:
+  existing_plan_ID:
+  policy_mailing:
+EIUL2015_dthOptB_CashVal_500K:
+  total_face_amount: 500000
+  conversion_GIO_amount:
+  premium:
+  plan_name: FBL Indexed Universal Life
+  issue_date:
+  coverage_type: EIUL 2015
+  premium_period:
+  dividend_option:
+  nonforfeiture_option:
+  policy_type:
+  policy_option:
+  plan_type:
+  death_benefit_option: Option B - Level Face Amount
+  qualification_test: Cash Value Accumulation Test
+  other_life_or_annuity:
+  existing_coverage_replacement:
+  existing_insurer_name:
+  existing_policy_number:
+  existing_plan_ID:
+  policy_mailing:
+EIUL2015_dthOptB_CashVal_50K:
+  total_face_amount: 50000
+  conversion_GIO_amount:
+  premium:
+  plan_name: FBL Indexed Universal Life
+  issue_date:
+  coverage_type: EIUL 2015
+  premium_period:
+  dividend_option:
+  nonforfeiture_option:
+  policy_type:
+  policy_option:
+  plan_type:
+  death_benefit_option: Option B - Level Face Amount
+  qualification_test: Cash Value Accumulation Test
+  other_life_or_annuity:
+  existing_coverage_replacement:
+  existing_insurer_name:
+  existing_policy_number:
+  existing_plan_ID:
+  policy_mailing:
+EIUL2015_dthOptB_CashVal_75K:
+  total_face_amount: 75000
+  conversion_GIO_amount:
+  premium:
+  plan_name: FBL Indexed Universal Life
+  issue_date:
+  coverage_type: EIUL 2015
+  premium_period:
+  dividend_option:
+  nonforfeiture_option:
+  policy_type:
+  policy_option:
+  plan_type:
+  death_benefit_option: Option B - Level Face Amount
+  qualification_test: Cash Value Accumulation Test
+  other_life_or_annuity:
+  existing_coverage_replacement:
+  existing_insurer_name:
+  existing_policy_number:
+  existing_plan_ID:
+  policy_mailing:
+EIUL2015_dthOptB_CashVal_750K:
+  total_face_amount: 750000
+  conversion_GIO_amount:
+  premium:
+  plan_name: FBL Indexed Universal Life
+  issue_date:
+  coverage_type: EIUL 2015
+  premium_period:
+  dividend_option:
+  nonforfeiture_option:
+  policy_type:
+  policy_option:
+  plan_type:
+  death_benefit_option: Option B - Level Face Amount
+  qualification_test: Cash Value Accumulation Test
+  other_life_or_annuity:
+  existing_coverage_replacement:
+  existing_insurer_name:
+  existing_policy_number:
+  existing_plan_ID:
+  policy_mailing:
+EIUL2015_dthOptB_GuiPrem_100K:
+  total_face_amount: 100000
+  conversion_GIO_amount:
+  premium:
+  plan_name: FBL Indexed Universal Life
+  issue_date:
+  coverage_type: EIUL 2015
+  premium_period:
+  dividend_option:
+  nonforfeiture_option:
+  policy_type:
+  policy_option:
+  plan_type:
+  death_benefit_option: Option B - Level Face Amount
+  qualification_test: Guideline Premium Test
+  other_life_or_annuity:
+  existing_coverage_replacement:
+  existing_insurer_name:
+  existing_policy_number:
+  existing_plan_ID:
+  policy_mailing:
+EIUL2015_dthOptB_GuiPrem_250K:
+  total_face_amount: 250000
+  conversion_GIO_amount:
+  premium:
+  plan_name: FBL Indexed Universal Life
+  issue_date:
+  coverage_type: EIUL 2015
+  premium_period:
+  dividend_option:
+  nonforfeiture_option:
+  policy_type:
+  policy_option:
+  plan_type:
+  death_benefit_option: Option B - Level Face Amount
+  qualification_test: Guideline Premium Test
+  other_life_or_annuity:
+  existing_coverage_replacement:
+  existing_insurer_name:
+  existing_policy_number:
+  existing_plan_ID:
+  policy_mailing:
+EIUL2015_dthOptB_GuiPrem_125K:
+  total_face_amount: 125000
+  conversion_GIO_amount:
+  premium:
+  plan_name: FBL Indexed Universal Life
+  issue_date:
+  coverage_type: EIUL 2015
+  premium_period:
+  dividend_option:
+  nonforfeiture_option:
+  policy_type:
+  policy_option:
+  plan_type:
+  death_benefit_option: Option B - Level Face Amount
+  qualification_test: Guideline Premium Test
+  other_life_or_annuity:
+  existing_coverage_replacement:
+  existing_insurer_name:
+  existing_policy_number:
+  existing_plan_ID:
+  policy_mailing:
+EIUL2015_dthOptB_GuiPrem_150K:
+  total_face_amount: 150000
+  conversion_GIO_amount:
+  premium:
+  plan_name: FBL Indexed Universal Life
+  issue_date:
+  coverage_type: EIUL 2015
+  premium_period:
+  dividend_option:
+  nonforfeiture_option:
+  policy_type:
+  policy_option:
+  plan_type:
+  death_benefit_option: Option B - Level Face Amount
+  qualification_test: Guideline Premium Test
+  other_life_or_annuity:
+  existing_coverage_replacement:
+  existing_insurer_name:
+  existing_policy_number:
+  existing_plan_ID:
+  policy_mailing:
+EIUL2015_dthOptB_GuiPrem_1M:
+  total_face_amount: 1000000
+  conversion_GIO_amount:
+  premium:
+  plan_name: FBL Indexed Universal Life
+  issue_date:
+  coverage_type: EIUL 2015
+  premium_period:
+  dividend_option:
+  nonforfeiture_option:
+  policy_type:
+  policy_option:
+  plan_type:
+  death_benefit_option: Option B - Level Face Amount
+  qualification_test: Guideline Premium Test
+  other_life_or_annuity:
+  existing_coverage_replacement:
+  existing_insurer_name:
+  existing_policy_number:
+  existing_plan_ID:
+  policy_mailing:
+EIUL2015_dthOptB_GuiPrem_1.5M:
+  total_face_amount: 1500000
+  conversion_GIO_amount:
+  premium:
+  plan_name: FBL Indexed Universal Life
+  issue_date:
+  coverage_type: EIUL 2015
+  premium_period:
+  dividend_option:
+  nonforfeiture_option:
+  policy_type:
+  policy_option:
+  plan_type:
+  death_benefit_option: Option B - Level Face Amount
+  qualification_test: Guideline Premium Test
+  other_life_or_annuity:
+  existing_coverage_replacement:
+  existing_insurer_name:
+  existing_policy_number:
+  existing_plan_ID:
+  policy_mailing:
+EIUL2015_dthOptB_GuiPrem_275K:
+  total_face_amount: 275000
+  conversion_GIO_amount:
+  premium:
+  plan_name: FBL Indexed Universal Life
+  issue_date:
+  coverage_type: EIUL 2015
+  premium_period:
+  dividend_option:
+  nonforfeiture_option:
+  policy_type:
+  policy_option:
+  plan_type:
+  death_benefit_option: Option B - Level Face Amount
+  qualification_test: Guideline Premium Test
+  other_life_or_annuity:
+  existing_coverage_replacement:
+  existing_insurer_name:
+  existing_policy_number:
+  existing_plan_ID:
+  policy_mailing:
+EIUL2015_dthOptB_GuiPrem_310K:
+  total_face_amount: 310000
+  conversion_GIO_amount:
+  premium:
+  plan_name: FBL Indexed Universal Life
+  issue_date:
+  coverage_type: EIUL 2015
+  premium_period:
+  dividend_option:
+  nonforfeiture_option:
+  policy_type:
+  policy_option:
+  plan_type:
+  death_benefit_option: Option B - Level Face Amount
+  qualification_test: Guideline Premium Test
+  other_life_or_annuity:
+  existing_coverage_replacement:
+  existing_insurer_name:
+  existing_policy_number:
+  existing_plan_ID:
+  policy_mailing:
+EIUL2015_dthOptB_GuiPrem_350K:
+  total_face_amount: 350000
+  conversion_GIO_amount:
+  premium:
+  plan_name: FBL Indexed Universal Life
+  issue_date:
+  coverage_type: EIUL 2015
+  premium_period:
+  dividend_option:
+  nonforfeiture_option:
+  policy_type:
+  policy_option:
+  plan_type:
+  death_benefit_option: Option B - Level Face Amount
+  qualification_test: Guideline Premium Test
+  other_life_or_annuity:
+  existing_coverage_replacement:
+  existing_insurer_name:
+  existing_policy_number:
+  existing_plan_ID:
+  policy_mailing:
+EIUL2015_dthOptB_GuiPrem_500K:
+  total_face_amount: 500000
+  conversion_GIO_amount:
+  premium:
+  plan_name: FBL Indexed Universal Life
+  issue_date:
+  coverage_type: EIUL 2015
+  premium_period:
+  dividend_option:
+  nonforfeiture_option:
+  policy_type:
+  policy_option:
+  plan_type:
+  death_benefit_option: Option B - Level Face Amount
+  qualification_test: Guideline Premium Test
+  other_life_or_annuity:
+  existing_coverage_replacement:
+  existing_insurer_name:
+  existing_policy_number:
+  existing_plan_ID:
+  policy_mailing:
+EIUL2015_dthOptB_GuiPrem_50K:
+  total_face_amount: 50000
+  conversion_GIO_amount:
+  premium:
+  plan_name: FBL Indexed Universal Life
+  issue_date:
+  coverage_type: EIUL 2015
+  premium_period:
+  dividend_option:
+  nonforfeiture_option:
+  policy_type:
+  policy_option:
+  plan_type:
+  death_benefit_option: Option B - Level Face Amount
+  qualification_test: Guideline Premium Test
+  other_life_or_annuity:
+  existing_coverage_replacement:
+  existing_insurer_name:
+  existing_policy_number:
+  existing_plan_ID:
+  policy_mailing:
+EIUL2015_dthOptB_GuiPrem_90K:
+  total_face_amount: 90000
+  conversion_GIO_amount:
+  premium:
+  plan_name: FBL Indexed Universal Life
+  issue_date:
+  coverage_type: EIUL 2015
+  premium_period:
+  dividend_option:
+  nonforfeiture_option:
+  policy_type:
+  policy_option:
+  plan_type:
+  death_benefit_option: Option B - Level Face Amount
+  qualification_test: Guideline Premium Test
+  other_life_or_annuity:
+  existing_coverage_replacement:
+  existing_insurer_name:
+  existing_policy_number:
+  existing_plan_ID:
+  policy_mailing:

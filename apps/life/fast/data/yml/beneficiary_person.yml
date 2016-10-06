@@ -1,0 +1,39 @@
+#Workbook: C:/devl/SAF_dev/apps/life/fast/data/excel/fast_data_workbook.xlsx
+#Worksheet: beneficiary_person
+---
+Spouse_005051111:
+  primary_beneficiaries_share_equally:
+  contingent_beneficiaries_share_equally:
+  first_name: Laura
+  last_name: Nelson
+  suffix:
+  birthdate: !ruby/object:DateTime '1987-05-20 00:00:00.000000000 Z'
+  govt_id_type: Social Security Number
+  govt_id: '005051111'
+  role: Beneficiary
+  relation: Spouse
+  percentage:
+Sibling_005111111:
+  primary_beneficiaries_share_equally:
+  contingent_beneficiaries_share_equally:
+  first_name: Mary
+  last_name: Lang
+  suffix:
+  birthdate: !ruby/object:DateTime '1991-06-01 00:00:00.000000000 Z'
+  govt_id_type: Social Security Number
+  govt_id: '005111111'
+  role: Contingent Beneficiary
+  relation: Sibling
+  percentage:
+Sibling_005112566:
+  primary_beneficiaries_share_equally:
+  contingent_beneficiaries_share_equally:
+  first_name: David
+  last_name: Lang
+  suffix:
+  birthdate: !ruby/object:DateTime '1988-08-01 00:00:00.000000000 Z'
+  govt_id_type: Social Security Number
+  govt_id: '005112566'
+  role: Contingent Beneficiary
+  relation: Sibling
+  percentage:

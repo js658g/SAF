@@ -1,0 +1,145 @@
+$Id: README 95 2016-04-06 20:35:25Z e0c2506 $
+
+1. Open command prompt, cd to this directory, and type "cucumber"
+2. You will get the results that complains that we did not yet define the steps that we have used in this feature. Cucumber will also go an extra step further and tell us how to solve the problem and implement the steps (as stubs). It also guesses (correctly) that the numbers used in the steps might vary and replaces the literal numbers with capturing groups. So lets just paste Cucumber’s suggestions into a step definition file. (In fact I often run Cucumber intentionally with undefined steps and use the suggestions as a template for the step implementations.)
+
+The output should be something like this:
+    C:\Users\e0c2425\Desktop\Automation\SAF\learn\cucumber
+    >cucumber
+    #encoding: utf-8
+    Feature: Showcase the simplest possible Cucumber scenario
+      In order to verify that cucumber is installed and configured correctly
+      As an aspiring BDD fanatic
+      I should be able to run this scenario and see that the steps pass (green like
+    
+      Scenario: Cutting vegetables          # features/first.feature:7
+        Given a cucumber that is 30 cm long # features/first.feature:8
+        When I cut it in halves             # features/first.feature:9
+        Then I have two cucumbers           # features/first.feature:10
+        And both are 15 cm long             # features/first.feature:11
+    
+    1 scenario (1 undefined)
+    4 steps (4 undefined)
+    0m0.670s
+    
+    You can implement step definitions for undefined steps with these snippets:
+    
+    Given(/^a cucumber that is (\d+) cm long$/) do |arg1|
+      pending # Write code here that turns the phrase above into concrete actions
+    end
+    
+    When(/^I cut it in halves$/) do
+      pending # Write code here that turns the phrase above into concrete actions
+    end
+    
+    Then(/^I have two cucumbers$/) do
+      pending # Write code here that turns the phrase above into concrete actions
+    end
+    
+    Then(/^both are (\d+) cm long$/) do |arg1|
+      pending # Write code here that turns the phrase above into concrete actions
+    end
+    
+    
+3. cd into the directory features/step_definitions and copy the suggested steps into a file called first_steps.rb. Yes, step definitions are written in ruby - at least when we are using plain vanilla Cucumber. There are Cucumber ports for a multitude of languages, so chances are that you can write the step definitions in the language you are most comfortable with. So the content of the first_steps.rb should look like this:
+    #encoding: utf-8
+    Given /^a cucumber that is (\d+) cm long$/ do |arg1|
+      pending # express the regexp above with the code you wish you had
+    end
+     
+    When /^I cut it in halves$/ do
+      pending # express the regexp above with the code you wish you had
+    end
+     
+    Then /^I have two cucumbers$/ do
+      pending # express the regexp above with the code you wish you had
+    end
+     
+    Then /^both are (\d+) cm long$/ do |arg1|
+      pending # express the regexp above with the code you wish you had
+    end
+
+4. Now run cucumber again (from the parent directory of features). The 
+output is a little better, something like this:
+
+C:\Users\e0c2425\Desktop\Automation\SAF\learn\cucumber
+>cucumber
+    #encoding: utf-8
+    Feature: Showcase the simplest possible Cucumber scenario
+      In order to verify that cucumber is installed and configured correctly
+      As an aspiring BDD fanatic
+      I should be able to run this scenario and see that the steps pass (green like a cuke)
+    
+      Scenario: Cutting vegetables          # features/first.feature:7
+        Given a cucumber that is 30 cm long # features/step_definitions/first_steps.rb:2
+          TODO (Cucumber::Pending)
+          ./features/step_definitions/first_steps.rb:3:in `/^a cucumber that is (\d+) cm long$/'
+          features/first.feature:8:in `Given a cucumber that is 30 cm long'
+        When I cut it in halves             # features/step_definitions/first_steps.rb:6
+        Then I have two cucumbers           # features/step_definitions/first_steps.rb:10
+        And both are 15 cm long             # features/step_definitions/first_steps.rb:14
+    
+    1 scenario (1 pending)
+    4 steps (3 skipped, 1 pending)
+    0m0.106s
+
+5. The summary tells us that at least one step is pending and so the whole scenario is marked as pending. A scenario is skipped entirely when the first step fails (or is pending), so Cucumber does not even try to execute the other pending steps – that’s why it reports 3 steps as skipped.
+
+Before we implement the steps, let’s take a close look on first_steps.rb. If you have never seen a Cucumber step file before, it might look a little weird. The individual step implementations look a little bit like methods – in fact, they are ruby methods and the code inside is just plain ruby code. But the method header looks a bit queer – it contains a regular expression. That is a very neat feature: When Cucumber needs to find the step definition for a step in a scenario, it checks all step definition files (all .rb files in features/step_definitions, including subdirectories). If it finds one with a matching regular expression, this implementation is called. (By the way, if it finds more than one match, it complains about an ambiguous match, instead of executing the first or an arbitrary step.)
+
+This mechanism has several advantages. The first is flexible and well-readable parameterization of step definitions. We have already seen that in
+
+    Given /^a cucumber that is (\d+) cm long$/ do |arg1|
+
+Here the match of the first capturing group (enclosed in parentheses) is passed into the step implementation as the first argument (called arg1 - we should probably rename it to length). The \d+ matches one or more digits, so it is clear that we need to pass a number here.
+
+The regular expression matching also gives you the ability to write scenarios that are nice to read, without duplication in the step file. Here’s a simple example on how to exploit this: We could rewrite the second step as
+
+
+    When /^I (?:cut|chop) (?:it|the cucumber) in (?:halves|half|two)$/ do
+      pending # express the regexp above with the code you wish you had
+    end
+
+With this change all of the following steps would match:
+
+    When I cut the cucumber in halves
+    When I chop the cucumber in half
+    When I cut it in two
+ 
+We have used non-capturing groups (starting with "(?:") to cater for expressive variety. This is quite common in Cucumber steps.
+
+Once you start using this pattern, you should be careful to not take it too far. Only provide for the step variations that you really need right now. In the end you do not want to spend more time fighting with regular expressions than testing your system. It might even make sense to write two step definitions if it is too difficult to put all variations into one regex. You also have two other options at your disposal to reduce duplication: First, you can put plain ruby methods into the step file and call them from your steps or you can require other ruby files and reuse their code. Finally, you can even call other steps from within a step. 
+
+6.  Now for what’s inside a step implementation: Currently, all our steps only contain a call to pending. This is like a todo marker. With pending, you can first write you scenario, stub all steps with pending and then implement the steps one after another until the scenario passes. This fits nicely into an outside-in ATDD approach where you drive the implementation of the system under test with acceptance tests:
+    1.Write a Cucumber feature first (with pending steps),
+    2.implement the first step in Cucumber,
+    3.implement the required funcionality in the system under test to make just this step pass,
+    4.repeat.
+    
+All this said, let’s put some real implementation into the step methods. The code is available in 02_step_definitions file. 
+
+    Given /^a cucumber that is (\d+) cm long$/ do |length|
+      @cucumber = {:color => 'green', :length => length.to_i}
+    end
+     
+    When /^I (?:cut|chop) (?:it|the cucumber) in (?:halves|half|two)$/ do
+      @choppedCucumbers = [
+        {:color => @cucumber[:color], :length => @cucumber[:length] / 2},
+        {:color => @cucumber[:color], :length => @cucumber[:length] / 2}
+      ]
+    end
+     
+    Then /^I have two cucumbers$/ do
+      @choppedCucumbers.length.should == 2
+    end
+     
+    Then /^both are (\d+) cm long$/ do |length|
+      @choppedCucumbers.each do |cuke|
+        cuke[:length].should == length.to_i
+      end
+    end
+
+7. Edit the first_steps.rb file and prepend # at beginning of each line to comment them out (cucumber will complain about duplicate steps because it loads all steps_definitions files.
+
+8. Now run cucumber again.
+    

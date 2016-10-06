@@ -1,0 +1,53 @@
+#Workbook: C:/devl/SAF_dev/apps/life/fast/data/excel/fast_data_workbook.xlsx
+#Worksheet: payor
+---
+OrgCorp_Employer_220001111:
+  is_payor_same_as_insured:
+  payor_type: Organization
+  organization_name:
+  payor_name: BOW WOW Dog House
+  party_ID:
+  payor_prefix:
+  payor_first_name:
+  payor_middle_name:
+  payor_last_name:
+  payor_suffix:
+  payor_address_1: 1404 210st
+  payor_address_2:
+  payor_address_3:
+  payor_city: Kansas City
+  payor_state: KS
+  payor_zip: 67073
+  payor_country:
+  relationship_to_insured: Employer
+  payor_birthdate:
+  payor_age:
+  payor_phone:
+  payor_govt_id_type: Taxpayer Identification Number
+  payor_id: 220001111
+  trust_date:
+payor_sameAsInsured:
+  is_payor_same_as_insured: 'yes'
+  payor_type:
+  organization_name:
+  payor_name:
+  party_ID:
+  payor_prefix:
+  payor_first_name:
+  payor_middle_name:
+  payor_last_name:
+  payor_suffix:
+  payor_address_1:
+  payor_address_2:
+  payor_address_3:
+  payor_city:
+  payor_state:
+  payor_zip:
+  payor_country:
+  relationship_to_insured:
+  payor_birthdate:
+  payor_age:
+  payor_phone:
+  payor_govt_id_type:
+  payor_id:
+  trust_date:

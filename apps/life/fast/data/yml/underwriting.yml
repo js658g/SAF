@@ -1,0 +1,75 @@
+#Workbook: C:/devl/SAF_dev/apps/life/fast/data/excel/fast_data_workbook.xlsx
+#Worksheet: underwriting
+---
+completed_base-8riders_stdNonTobacco_approved:
+  requirement:
+  requirement_status: completed
+  uw_decisions: 'yes'
+  base_policy_coverage: Approved
+  rating_table:
+  rating_opt:
+  base_policy_rate_class: Standard Non Tobacco
+  first_rider_status: Approved
+  first_rider_rate_class: Standard Non Tobacco
+  second_rider: Approved
+  second_rider_rate_class: Standard Non Tobacco
+  third_rider: Approved
+  third_rider_rate_class: Standard Non Tobacco
+  fourth_rider: Approved
+  fourth_rider_rate_class: Standard Non Tobacco
+  fifth_rider: Approved
+  fifth_rider_rate_class: Standard Non Tobacco
+  sixth_rider: Approved
+  sixth_rider_rate_class: Standard Non Tobacco
+  seventh_rider: Approved
+  seventh_rider_rate_class: Standard Non Tobacco
+  eighth_rider: Approved
+  eighth_rider_rate_class: Standard Non Tobacco
+completed_rateTableH_permFlatExtra3_base-5riders_stdNonTobacco_approved:
+  requirement:
+  requirement_status: completed
+  uw_decisions: 'yes'
+  base_policy_coverage: Approved
+  rating_table: Table H
+  rating_opt: Permanent Flat Extra '3.00'
+  base_policy_rate_class:
+  first_rider_status: Approved
+  first_rider_rate_class: Standard Non Tobacco
+  second_rider: Approved
+  second_rider_rate_class: Standard Non Tobacco
+  third_rider: Approved
+  third_rider_rate_class: Standard Non Tobacco
+  fourth_rider: Approved
+  fourth_rider_rate_class: Standard Non Tobacco
+  fifth_rider: Approved
+  fifth_rider_rate_class: Standard Non Tobacco
+  sixth_rider:
+  sixth_rider_rate_class:
+  seventh_rider:
+  seventh_rider_rate_class:
+  eighth_rider:
+  eighth_rider_rate_class:
+req_check_all:
+  requirement: all
+  requirement_status:
+  uw_decisions:
+  base_policy_coverage:
+  rating_table:
+  rating_opt:
+  base_policy_rate_class:
+  first_rider_status:
+  first_rider_rate_class:
+  second_rider:
+  second_rider_rate_class:
+  third_rider:
+  third_rider_rate_class:
+  fourth_rider:
+  fourth_rider_rate_class:
+  fifth_rider:
+  fifth_rider_rate_class:
+  sixth_rider:
+  sixth_rider_rate_class:
+  seventh_rider:
+  seventh_rider_rate_class:
+  eighth_rider:
+  eighth_rider_rate_class:

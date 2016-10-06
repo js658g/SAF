@@ -1,0 +1,38 @@
+# encoding: utf-8
+# $Id: env_variables.yml 348 2016-05-09 04:49:15Z e0c2425 $
+
+default: &DEFAULT
+  # valid values are ie, internet_explorer, ie_rwin, chrome, chrome_rwin,
+  #   firefox, ff, ff_rwin
+  browser: 'chrome'
+  # to test headless browser, by default is true
+  in_browser: 'true'
+  # TODO: change to match log4r implementation
+  log_level: 'Logger::INFO'
+  # current machine, defaults to 127.0.0.1 localhost
+  host:
+    prod: 'https://www.fbfs.com'
+    t-public: 'https://t-public.fbfs.com'
+  # remote machine on network being used with *_rwin browser
+  remote_host:
+  # port to use on remote_host
+  remote_port:
+  # specifies path to your project relative to SAF's root folder, you can overwrite this
+  #   in your project (the yaml key is same as INSTALL_ENV when invoking cucumber)
+  project: /marketing/fbfs
+  # specifies whether you always want screenshots for key transactions, such as capturing
+  #   policy numbers when submitting a new business application
+  take_screen_shot: 'true'
+  take_screen_shot_on_fail: 'true'
+  take_screen_shot_on_warning: 'false'
+
+prod:
+  <<: *DEFAULT
+  host:
+    prod: 'https://www.fbfs.com'
+
+test:
+  <<: *DEFAULT
+  host:
+    prod: 'https://www.fbfs.com'
+    t-public: 'https://t-public.fbfs.com/'

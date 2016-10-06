@@ -1,0 +1,115 @@
+#Workbook: C:/devl/SAF_dev/apps/life/fast/data/excel/fast_data_workbook.xlsx
+#Worksheet: benefit
+---
+dailyLiving_50K:
+  benefit_type: Daily Living Rider
+  benefit_option: Daily Living Rider
+  benefit_amount: 50000
+  rider_type:
+  rider_option:
+  rider_insured:
+  ride_option_amount:
+dailyLiving_75K:
+  benefit_type: Daily Living Rider
+  benefit_option: Daily Living Rider
+  benefit_amount: 75000
+  rider_type:
+  rider_option:
+  rider_insured:
+  ride_option_amount:
+dailyLiving_90K:
+  benefit_type: Daily Living Rider
+  benefit_option: Daily Living Rider
+  benefit_amount: 90000
+  rider_type:
+  rider_option:
+  rider_insured:
+  ride_option_amount:
+dailyLiving_100K:
+  benefit_type: Daily Living Rider
+  benefit_option: Daily Living Rider
+  benefit_amount: 100000
+  rider_type:
+  rider_option:
+  rider_insured:
+  ride_option_amount:
+dailyLiving_175K:
+  benefit_type: Daily Living Rider
+  benefit_option: Daily Living Rider
+  benefit_amount: 175000
+  rider_type:
+  rider_option:
+  rider_insured:
+  ride_option_amount:
+dailyLiving_250K:
+  benefit_type: Daily Living Rider
+  benefit_option: Daily Living Rider
+  benefit_amount: 250000
+  rider_type:
+  rider_option:
+  rider_insured:
+  ride_option_amount:
+dailyLiving_275K:
+  benefit_type: Daily Living Rider
+  benefit_option: Daily Living Rider
+  benefit_amount: 275000
+  rider_type:
+  rider_option:
+  rider_insured:
+  ride_option_amount:
+dailyLiving_400K:
+  benefit_type: Daily Living Rider
+  benefit_option: Daily Living Rider
+  benefit_amount: 400000
+  rider_type:
+  rider_option:
+  rider_insured:
+  ride_option_amount:
+guarPurch_10K:
+  benefit_type: Guaranteed Purchase Option
+  benefit_option: Guaranteed Purchase Option
+  benefit_amount: 10000
+  rider_type:
+  rider_option:
+  rider_insured:
+  ride_option_amount:
+guarPurch_20K:
+  benefit_type: Guaranteed Purchase Option
+  benefit_option: Guaranteed Purchase Option
+  benefit_amount: 20000
+  rider_type:
+  rider_option:
+  rider_insured:
+  ride_option_amount:
+guarPurch_25K:
+  benefit_type: Guaranteed Purchase Option
+  benefit_option: Guaranteed Purchase Option
+  benefit_amount: 25000
+  rider_type:
+  rider_option:
+  rider_insured:
+  ride_option_amount:
+guarPurch_50K:
+  benefit_type: Guaranteed Purchase Option
+  benefit_option: Guaranteed Purchase Option
+  benefit_amount: 50000
+  rider_type:
+  rider_option:
+  rider_insured:
+  ride_option_amount:
+guarPurch_75K:
+  benefit_type: Guaranteed Purchase Option
+  benefit_option: Guaranteed Purchase Option
+  benefit_amount: 75000
+  rider_type:
+  rider_option:
+  rider_insured:
+  ride_option_amount:
+waiveMonthly:
+  benefit_type: Waiver of Monthly Deduction Rider
+  benefit_option: Waiver of Monthly Deduction
+  benefit_amount:
+  rider_type:
+  rider_option:
+  rider_insured:
+  ride_option_amount:

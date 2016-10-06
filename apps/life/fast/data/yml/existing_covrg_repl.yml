@@ -1,0 +1,13 @@
+#Workbook: C:/devl/SAF_dev/apps/life/fast/data/excel/fast_data_workbook.xlsx
+#Worksheet: existing_covrg_repl
+---
+pol_repl_existing_annuity:
+  owner_other_life_annuities:
+  insured_other_life_annuities:
+  policy_appl_replacing_existing_life_annuity: checked
+  values_existing_life_annuity_paying_premium_on_new:
+all:
+  owner_other_life_annuities: checked
+  insured_other_life_annuities: checked
+  policy_appl_replacing_existing_life_annuity: checked
+  values_existing_life_annuity_paying_premium_on_new: checked

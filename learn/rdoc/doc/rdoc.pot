@@ -1,0 +1,79 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSEION\n"
+"Report-Msgid-Bugs-To:\n"
+"PO-Revision-Date: YEAR-MO_DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language:\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#. RDocTest#run_something
+msgid "  my_rdoc_test.run_something { |rdoc_test| assert_equal(my_rdoc_test, rdoc_test) }"
+msgstr ""
+
+#. RDocTest: Amazing
+msgid "# This is an amazing section with amazing things. Wow."
+msgstr ""
+
+#. RDocTest: Not Amazing
+msgid "# This is not an amazing section with un-amazing thing. Lame."
+msgstr ""
+
+#. RDocTest: section title
+msgid "Amazing"
+msgstr ""
+
+#. AnotherRDoc#rdoc_this
+msgid "Just tell me something stup-- I mean amazing and I'll rdoc it for you."
+msgstr ""
+
+#. RDocTest: section title
+msgid "Not Amazing"
+msgstr ""
+
+#. AnotherRDoc
+msgid ""
+"This is more rdoc.\n"
+"Used in RDocTest#more_rdoc."
+msgstr ""
+
+#. RDocTest::new
+msgid "This is our initialize method. Apparently I can't link to RDocTest::new or RDocTest#initialize."
+msgstr ""
+
+#. RDocTest#run_something
+msgid ""
+"This little bugger doesn't do much.\n"
+"You can call it like so"
+msgstr ""
+
+#. RDocTest#best_character_is
+msgid ""
+"This will tell you if you're right or not about the best character.\n"
+"Values that return true are\n"
+"[Bismarck] A personification of the Bismarck battleship from Kantai Collection.\n"
+"[IA] A vocaloid."
+msgstr ""
+
+#. RDocTest#more_rdoc
+msgid "This will utilize AnotherRDoc and its AnotherRDoc#rdoc_this method."
+msgstr ""
+
+#. RDocTest
+msgid ""
+"We're going to be testing out RDoc today...\n"
+"Also see AnotherRDoc"
+msgstr ""
+
+#. AnotherRDoc#rdoc_this
+msgid "{Speaking of amazing...}[rdoc-ref:RDocTest@Amazing]"
+msgstr ""

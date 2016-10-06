@@ -1,0 +1,33 @@
+#Workbook: C:/devl/SAF_dev/apps/life/fast/data/excel/fast_data_workbook.xlsx
+#Worksheet: rider
+---
+childTerm_10K:
+  rider_type: Childrens Term Life Insurance Rider
+  rider_option: Childrens Term Life Insurance Rider
+  rider_insured: Child
+  ride_option_amount: 10000
+childTerm_15K:
+  rider_type: Childrens Term Life Insurance Rider
+  rider_option: Childrens Term Life Insurance Rider
+  rider_insured: Child
+  ride_option_amount: 15000
+childTerm_20K:
+  rider_type: Childrens Term Life Insurance Rider
+  rider_option: Childrens Term Life Insurance Rider
+  rider_insured: Child
+  ride_option_amount: 20000
+childTerm_25K:
+  rider_type: Childrens Term Life Insurance Rider
+  rider_option: Childrens Term Life Insurance Rider
+  rider_insured: Child
+  ride_option_amount: 25000
+childTerm_50K:
+  rider_type: Childrens Term Life Insurance Rider
+  rider_option: Childrens Term Life Insurance Rider
+  rider_insured: Child
+  ride_option_amount: 50000
+childTerm_45K:
+  rider_type: Childrens Term Life Insurance Rider
+  rider_option: Childrens Term Life Insurance Rider
+  rider_insured: Child
+  ride_option_amount: 45000

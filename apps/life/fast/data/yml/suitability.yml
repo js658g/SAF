@@ -1,0 +1,53 @@
+#Workbook: C:/devl/SAF_dev/apps/life/fast/data/excel/fast_data_workbook.xlsx
+#Worksheet: suitability
+---
+? Dgrowth_risk_Mod_horizon_GT15_net_GT1M_liquid_500Kto1M_gross_GT1M_cash_300K_life_5M_ann_5M_mutlFund_5M_secur_100K_IRAs_300K_rE_15M_recExp_25K_taxDef
+: investment_objective: 'D: Growth'
+  risk_tolerance: Moderate
+  investment_experience: 11-20
+  investment_horizon: More Than 15
+  net_worth: Over $1 million
+  liquid_net_worth: "$500,000 - $1 million"
+  annual_gross: Over $1 million
+  tax_bracket: 0.28
+  liquidity_needs: Not Important
+  other_holdings: "$500,000 - $1 million"
+  cash: 300000
+  life_insurance: 5000000
+  annuities: 500000
+  mutual_funds: 5000000
+  individual_securities: 100000
+  IRAs: 300000
+  employer_sponsored: '0'
+  real_estate: 15000000
+  other_investments: '0'
+  recurring_expenses: 25000
+  tax_deferred_growth: checked
+  current_income: checked
+  owners_signature: checked
+  agent_signature: checked
+? growth_risk_Mod_horizon_GT15_net_GT1M_liquid_500Kto1M_gross_GT1M_cash_300K_life_5M_ann_5M_mutlFund_5M_secur_100K_IRAs_300K_rE_15M_recExp_25K_taxDef
+: investment_objective: Growth
+  risk_tolerance: Moderate
+  investment_experience: 11-20
+  investment_horizon: More Than 15
+  net_worth: Over $1 million
+  liquid_net_worth: "$500,000 - $1 million"
+  annual_gross: Over $1 million
+  tax_bracket: 0.28
+  liquidity_needs: Not Important
+  other_holdings: "$500,000 - $1 million"
+  cash: 300000
+  life_insurance: 5000000
+  annuities: 500000
+  mutual_funds: 5000000
+  individual_securities: 100000
+  IRAs: 300000
+  employer_sponsored: '0'
+  real_estate: 15000000
+  other_investments: '0'
+  recurring_expenses: 25000
+  tax_deferred_growth: checked
+  current_income: checked
+  owners_signature: checked
+  agent_signature: checked
